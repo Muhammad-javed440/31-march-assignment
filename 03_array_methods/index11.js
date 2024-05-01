@@ -12,7 +12,7 @@ console.log('      \nStart with m :\n\n', arrayWithM);
 function startWithA(fruits) {
     return fruites.filter(word => word.startsWith('a'));
 }
-let arrayWithA = startWith(fruites);
+let arrayWithA = startWithA(fruites);
 console.log('     \nStart with a :\n\n', arrayWithA);
 // 3. Start with p
 let startsWithP = fruites.filter(word => word.startsWith('p'));
