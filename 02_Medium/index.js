@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // Q6. Area function
 function area(radius) {
     return (3.14) * radius ** 2;
