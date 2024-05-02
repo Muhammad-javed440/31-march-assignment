@@ -15,5 +15,5 @@ function sumOfElements(array4, isEven) {
         }
     }, 0);
 }
-console.log('Sum of even', sumOfElements(array4, true));
-console.log('Sum of odd', sumOfElements(array4, false));
+console.log('\nSum of even :\n', sumOfElements(array4, true));
+console.log('\nSum of odd :\n', sumOfElements(array4, false));
