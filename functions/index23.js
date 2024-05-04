@@ -1,7 +1,6 @@
 "use strict";
 // q.23. Create a function findDuplicates that finds 
 // and logs all duplicates in an array.
-Object.defineProperty(exports, "__esModule", { value: true });
 function findDuplicates(array2) {
     const duplicateMap = {};
     const duplicates = [];

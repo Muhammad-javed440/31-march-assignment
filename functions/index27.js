@@ -2,7 +2,6 @@
 // Q.27. Write a function that receives an array of names and formats 
 // them into a string separated by commas, except for the last two names,
 //  which should be separated by "and".
-Object.defineProperty(exports, "__esModule", { value: true });
 function formatName(name) {
     if (name.length === 0) {
         return "";

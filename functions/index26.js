@@ -1,7 +1,6 @@
 "use strict";
 // Q.26. Create a function isSorted that checks if an array 
 // is sorted in ascending order.
-Object.defineProperty(exports, "__esModule", { value: true });
 function isSorted(arr) {
     for (let i = 1; i < arr.length; i++) {
         // Check if the current element is less than the previous one

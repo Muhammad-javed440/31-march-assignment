@@ -2,7 +2,6 @@
 // Q.22. Develop a function filterByLength that takes an array of strings
 //  and a number n. The function should return an array containing only 
 //  the strings that are longer than n characters.
-Object.defineProperty(exports, "__esModule", { value: true });
 let array1 = ['ali', 'Muhammad', 'Javed', 'banana', 'lahore', 'Pakistan', 'rani'];
 let n = 3;
 function filterByLength(array1, n) {

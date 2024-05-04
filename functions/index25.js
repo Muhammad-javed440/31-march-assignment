@@ -1,7 +1,6 @@
 "use strict";
 // Q.25. Develop a function countOccurrences that counts how many 
 // times a specific element appears in an array.
-Object.defineProperty(exports, "__esModule", { value: true });
 let array4 = [1, 2, 3, 2, 5, 6, 2, 3, 3, 5, 6, 6, 7, 8];
 function countOccurrences(array4, element) {
     let count = 0;
