@@ -1,6 +1,7 @@
 "use strict";
 // 12. Create a script that logs the second to last element of 
 // an array named fruits.
+Object.defineProperty(exports, "__esModule", { value: true });
 const fruits = ['apple', 'banana', 'orange', 'grape', 'kiwi'];
 let secondToLast = fruits[fruits.length - 2];
 let thirdToLast = fruits[fruits.length - 3];

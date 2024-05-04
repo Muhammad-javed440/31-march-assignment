@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // Q17. Write a script that concatenates two arrays [1, 2, 3] and [4, 5, 6]
 //  into a single array.
 let array2 = [1, 2, 3];

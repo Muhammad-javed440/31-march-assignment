@@ -1,6 +1,7 @@
 "use strict";
 // 11. Write a function that takes an array of words and returns a new array 
 // containingonly the words that start with the letter 'a'.
+Object.defineProperty(exports, "__esModule", { value: true });
 let fruites = ['apple', 'mango', 'melon', 'peach', 'ananas'];
 // 1. Start with "m"
 function startWith(fruits) {

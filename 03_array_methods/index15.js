@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // Given an array scores [10, 5, 20, 20, 4, 5, 2, 25, 1], write a function that logs the 
 // number of times the score exceeded the maximum score and the number of times it fell below 
 // the minimum score.

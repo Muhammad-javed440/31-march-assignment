@@ -1,6 +1,7 @@
 "use strict";
 // Q19. Create a function that checks whether an element exists in an array.
 //  If it exists, return the index, otherwise return -1.
+Object.defineProperty(exports, "__esModule", { value: true });
 let array5 = [1, 2, 3, 5, 7, 8, 10, 15];
 let element = 13;
 function findElement(array5, element) {

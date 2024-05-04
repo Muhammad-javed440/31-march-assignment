@@ -1,6 +1,7 @@
 "use strict";
 // Q20. Write a function to find and return the smallest number in an array 
 // of integers.
+Object.defineProperty(exports, "__esModule", { value: true });
 let array6 = [4, 5, 7, 3, 8, 9, 1];
 function findSmallest(array6) {
     if (array6.length === 0) {
